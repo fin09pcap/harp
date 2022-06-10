@@ -53,7 +53,7 @@ require (
 	github.com/hashicorp/hcl/v2 v2.11.1
 	github.com/hashicorp/vault/api v1.4.1
 	github.com/iancoleman/strcase v0.2.0
-	github.com/imdario/mergo v0.3.12
+	github.com/imdario/mergo v0.3.13
 	github.com/jmespath/go-jmespath v0.4.0
 	github.com/klauspost/compress v1.15.1
 	github.com/magefile/mage v1.13.0
@@ -87,7 +87,7 @@ require (
 	google.golang.org/grpc v1.45.0
 	google.golang.org/protobuf v1.28.0
 	gopkg.in/square/go-jose.v2 v2.6.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 	oras.land/oras-go v1.1.1
 	sigs.k8s.io/yaml v1.3.0
 	zntr.io/paseto v1.1.0
