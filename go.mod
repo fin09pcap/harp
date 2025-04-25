@@ -8,7 +8,7 @@ replace github.com/satori/go.uuid => github.com/satori/go.uuid v1.2.1-0.20181028
 
 // Nancy findings
 require (
-	github.com/containerd/containerd v1.7.25 // indirect
+	github.com/containerd/containerd v1.7.27 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 )
 
